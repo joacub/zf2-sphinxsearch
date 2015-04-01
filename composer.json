@@ -1,5 +1,5 @@
 {
-    "name": "ripaclub/zf2-sphinxsearch",
+    "name": "joacub/zf2-sphinxsearch",
     "description": "ZF2 integration module for Sphinx Search library",
     "homepage": "https://github.com/ripaclub/zf2-sphinxsearch",
     "license": "BSD-2-Clause",
